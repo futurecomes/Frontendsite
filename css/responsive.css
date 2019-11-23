@@ -1,0 +1,1438 @@
+@charset "utf-8";
+
+
+@media only screen and (max-width: 1199px) {
+	#rs-header .menu-area.rs-defult-header .main-menu{
+        padding-right: 75px;
+    }
+    #rs-header .menu-area .rs-menu ul.nav-menu li a{
+        margin-right: 15px;
+    }
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des .sl-title {
+        font-size: 45px;
+    }
+    .rs-banner .bnr-text h1{
+        font-size: 50px;
+    }
+    .rs-about-2 .text-area {
+        margin-top: 0;
+    }
+    .rs-slider.corporate-slider .sl-title span {
+        font-size: 50px;
+        line-height: 66px;
+    }
+    .rs-services-3 .common .text h4 {
+        font-size: 17px;
+    }
+    .rs-services-3 .common .text {
+        padding-right: 10px;
+    }
+    .rs-team2 .team-item-wrap .team-content .display-table .display-table-cell .team-social {
+        margin-top: 0;
+    }
+    .rs-team2 .team-item-wrap .team-content .display-table .display-table-cell p {
+        margin: 7px 0 6px;
+    }
+    .why-choose-us .services-responsibiity .services-item.last-item {
+        margin-bottom: 0;
+    }
+    .home-medical .why-choose-us.defult-style {
+        padding-bottom: 238px;
+    }
+    .rs-defult-team.medical-team.defult-style {
+        padding-bottom: 222px;
+    }
+    .sec-title.video-contact h3 {
+        padding-right: 0;
+        font-size: 22px;
+    }
+    .rs-slider .sl-title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+}
+
+/* Layout: Min 992px Max 1199px. */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .hidden-lg{
+        display: none;
+    }
+	.home-business2 .rs-slider .sl-title {
+        font-size: 60px;
+    }
+    .home-business2 .rs-slider .display-table-cell .sl-desc {
+        width: 82%;
+    }
+    .rs-about .sec-title h3 {
+        padding-right: 0;
+    }
+    .rs-about.me-about .about-text {
+        margin-bottom: 30px;
+    }
+    .rs-slider-two .nivo-caption{
+        top: 40px;
+    }
+    .creative-slider .nivo-caption{
+        top: 24px;
+    }
+     .rs-skills.corporate-skills .corporate-skills-inner{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .rs-skills.corporate-skills .rs-counter-list{
+        padding-left: 0;
+        padding-right: 0;
+    }
+    .rs-about-4 .services-responsibiity{
+        margin-top: 50px;
+    }
+    .rs-services-3 .service-title h3{
+        font-size: 24px;
+    }
+    .rs-shop .product-grid .shop-content h4.title, 
+    .shop-rp .product-grid .shop-content h4.title{
+        font-size: 17px;
+    }
+}
+/* Layout: Min 991px */
+@media only screen and (min-width: 991px) {
+    .rs-slider {
+        &.rs-slider-two{
+            .sl-sub-title{
+                margin-bottom: 20px;
+            }
+            .slider-bottom{
+                margin: 35px 0 20px;
+            }
+        }
+    }
+    .why-choose-us{
+        .pl-45{
+            padding-left: 35px;
+        }
+    }
+}
+
+/* Medium Layout: 991px. */
+@media only screen and (max-width: 991px) {
+    #rs-header .menu-area .rs-menu ul.nav-menu li a i,
+    #rs-header.transparent-header .menu-area .rs-menu .nav-menu li a i,
+    .hidden-md {
+        display: none;
+    }
+    .mb-md-30{
+        margin-bottom: 30px;
+    }
+    .mb-md-50{
+        margin-bottom: 50px;
+    }
+    .mb-md-60{
+        margin-bottom: 60px;
+    }
+    .margin-md-0{
+        margin: 0;
+    }
+    .sec-title-2{
+        padding-top: 15px;
+        padding-bottom: 25px !important;
+    }
+    .order-first,
+    .order-last {
+        order : unset;
+    }
+    .counter-top-area.about-counter .rs-count .rs-counter-list h4 {
+        font-size: 14px;
+    }
+    .rs-slider.creative-slider .sl-title {
+        font-size: 50px;
+        line-height: 70px;
+    }
+    .rs-defult-team.medical-team.defult-style {
+        padding-top: 240px;
+    }
+    .home-business2 .rs-slider .sl-title {
+        font-size: 35px;
+        margin-bottom: 0;
+    }
+    .about2 .how-we-work.about-work .sec-title3 {
+        margin-bottom: 40px;
+    }
+    .counter-top-area.lawyer-counter .rs-count .rs-counter-list h3 {
+        font-size: 80px;
+    }
+    .counter-top-area.lawyer-counter .rs-count .rs-counter-list h4{
+        font-size: 26px;
+    }
+    .right-skills-bar .corporate-skills-inner{
+        padding: 90px 30px 0 !important;
+    }
+    .rs-about-4 .title,
+    .right-skills-bar .corporate-skills-inner{
+        max-width: 750px;
+        margin: 0 auto;
+    }
+    .rs-skills.corporate-skills{
+        background: #f0f3f9;
+    }
+    .home-business2 .rs-slider .display-table-cell .slider-bottom li .readon, 
+    .home-business2 .rs-slider .display-table-cell .slider-bottom li .active-btn {
+        padding: 10px 25px;
+    }
+    .menu-area .row.align-items-center{
+        align-items: unset !important;
+    }
+    .rs-defult-team .team-item .post {
+        margin-bottom: 0;
+    }
+    .menu-area .logo-area{
+        position: absolute;
+        top: 15px;
+        z-index: 9;
+    }
+    .rs-defult-team.defult-style {
+        padding-top: 226px;
+    }
+    #rs-header .toolbar-area {
+        padding-top: 10px;
+    }
+    .home-mobile-apps .faq-img,
+    .home-mobile-apps .counter-image{
+        text-align: center;
+    }
+    #rs-header .toolbar-area .toolbar-contact ul,
+    #rs-header .toolbar-area .toolbar-sl-share ul {
+        float: none;
+        text-align: center;
+    }
+    .rs-about.creative-about .about-desc2{
+        padding-right: 0;
+    }
+    #rs-header .toolbar-area .toolbar-contact ul li,
+    #rs-header .toolbar-area .toolbar-sl-share ul li {
+        border: none !important;
+        line-height: 1;
+        padding: 10px;
+    }
+    #rs-header .menu-area.rs-defult-header .main-menu{
+        padding-right: 0;
+    }
+    #rs-header .menu-area .rs-menu ul.nav-menu{
+        background: #162e45;
+    }
+    #rs-header .menu-area .rs-menu ul.nav-menu li{
+        height: unset;
+        line-height: unset;
+        border-bottom: 1px solid #162e45;
+    }
+    #rs-header .middle-header .logo {
+        text-align: center;
+        margin: 0 0 30px;
+    }
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .appointment-cart {
+        top: 30px;
+    }
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .rs-menu-toggle {
+        border-bottom: 1px solid #162e45;
+    }
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .rs-menu ul.nav-menu li,
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .get-quote a {
+        height: 60px;
+        line-height: 60px;
+    }
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .rs-menu ul.nav-menu li a {
+        padding: 0 0 0 20px;
+    }
+    #rs-header.icon-header .middle-header .header-bottom-area .rs-menu ul.nav-menu li a:hover,
+    #rs-header.icon-header .middle-header .header-bottom-area .rs-menu ul.nav-menu li.current-menu-item a.active {
+        color: #222 !important;
+    }
+    .our-hostory-section .single-service {
+        margin-bottom: 30px;
+      }
+    .nav-menu .mega-menu{
+        max-height: unset;
+    }
+    .nav-menu .sub-menu-close {
+        padding: 0 !important;
+    }
+    .nav-menu .sub-menu-close:hover {
+        color: #4d6de6;
+    }
+    .rs-services-3 .rs-vertical-middle .service-title{
+        margin-top: 0;
+    }
+    .nav-menu .mega-menu div.sub-menu-close{
+        position: absolute;
+    }
+    .rs-slider .sl-title {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .rs-slider .sl-title span {
+        font-size: 30px !important;
+        line-height: 40px !important;
+    }
+    .rs-slider .sl-subtitle,
+    .rs-slider .sl-sub-title{
+        font-size: 25px;
+    }
+    .rs-slider .sl-desc{
+        font-size: 15px;
+        line-height: 20px;
+    }    
+    .counter-top-area.defult-style .rs-counter-list h4{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .rs-about-4 .title{
+        padding: 90px 15px;
+    }
+    .rs-services-4 .service-grid h4 {
+        font-size: 17px;
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-title {
+        font-size: 38px;
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-btn li {
+        margin-right: 10px;
+    }
+    .rs-video-area2 {
+        margin-bottom: -157px;
+    }
+    .rs-customer4.padding-style {
+        padding-top: 253px;
+    }
+    .rs-download-store .logo-area ul li {
+        margin-right: 30px;
+    }
+    .rs-portfolio.seo-portfolio .gallery-item .gallery-content .popup-text .contents-here .title{
+        font-size: 18px;
+    }
+    .rs-about-5 .about-img{
+        margin-top: 0;
+    }
+    .home-business2 .why-choose-us.defult-style {
+        padding-bottom: 212px;
+    }
+    .transparent-header .toolbar-contact {
+        text-align: center;
+    }
+    .transparent-header .toolbar-sl-share ul {
+        text-align: center !important;
+        float: none !important;
+    }
+    .transparent-header .toolbar-area .toolbar-sl-share ul li {
+        padding: 0;
+        width: 40px;
+    }
+    .transparent-header .toolbar-area {
+        padding: 15px 0;
+    }
+    .transparent-header .rs-menu-toggle {
+        color: #fff !important;
+        display: inline-block;
+        float: right;
+        padding: 0;
+        margin: 0;
+    }
+    .transparent-header .rs-menu-toggle i {
+        margin-right: 0;
+        font-size: 25px;
+    }
+    .transparent-header .menu-area .rs-menu ul.nav-menu li a i {
+        color: #fff !important;
+    }
+    .home-business2 .rs-slider .sl-subtitle, .rs-slider .sl-sub-title {
+        margin-top: 65px;
+    }
+    .rs-slider.rs-slider-one .sl-sub-title{
+        margin-top: 0;
+    }
+    .transparent-header .menu-area .logo-area {
+        top: 0;
+    }
+    .transparent-header .menu-area {
+        padding: 15px 0;
+    }
+    .transparent-header .sticky .rs-menu-toggle {
+        color: #222 !important;
+    }
+    .rs-footer .footer-bottom {
+        text-align: center;
+    }
+    .rs-footer .footer-bottom .footer-bottom-share {
+        float: none;
+    }
+    .top-history.top-history2 {
+        margin-top: 45px;
+    }
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des {
+        margin-top: 55px;
+    }
+    .top-history.top-history2 {
+        padding: 100px 0 95px 0;
+        margin: 0;
+    }
+    .rs-about-2 {
+        padding-top: 0;
+        padding-bottom: 95px;
+    }
+    .top-history.top-history2 .history-column ul.date-time li {
+        text-align: center;
+    }
+    .top-history.top-history2 .history-column ul.date-time li span {
+        float: none;
+        display: block;
+    }
+    .top-history.top-history2 .history-column {
+        min-height: 400px;
+    }
+    .rs-services-3 .common .text h4 {
+        font-size: 20px;
+    }
+    .rs-services-3 .common .text {
+        padding-right: 10px;
+    }
+    .rs-team-inner-4 .single-team-member .image-section,
+    .rs-team-inner-4 .single-team-member .box-section {
+        width: 100%;
+    }
+    .rs-team-inner-4 .single-team-member .box-section::before {
+        display: none;
+    }
+    .rs-banner .arrow-btn {
+        top: 90%;
+        transform: translate(-50%, -10%);
+    }
+    .rs-banner .arrow-btn a {
+        padding: 38px 7px 5px 7px;
+    }
+    .home-personal .rs-about .contents-here p {
+        padding: 0 5%;
+    }
+    .sec-title-2 h3 span {
+        top: -29px;
+    }
+    .home-minimal .rs-banner .banner-content .bnr-title {
+        font-size: 52px;
+    }
+    .rs-blog.modified-2 .h-pagination {
+        margin-bottom: 50px;
+        margin-left: 0;
+    }
+    .rs-services {
+        padding-bottom: 100px;
+    }
+    .home-business2 .rs-defult-team.defult-style {
+        padding-top: 245px;
+    }
+    .home-medical .rs-about-2 {
+        padding-bottom: 0;
+    }
+    .rs-about-2.mod-style {
+        padding-bottom: 96px !important;
+    }
+    .rs-about-2.mod-style .text-area {
+        padding-bottom: 0;
+    }
+    .rs-defult-team.medical-team.defult-style {
+        padding-bottom: 217px;
+    }
+    .rs-counter-2.mod-padding {
+        padding-bottom: 70px;
+    }
+    .rs-counter-2.mod-padding.pb-100 {
+        padding-bottom: 70px !important;
+    }
+    .home-lawyer .rs-defult-customer.construction-testimonial .sec-title {
+        margin-bottom: 50px;
+    }
+    .rs-defult-customer .contact-form .sec-title .contact-title{
+        font-size: 24px;
+    }
+    .rs-defult-customer .rs-contact .contact-bg .contact-form {
+        padding: 36px 30px 60px;
+    }
+    .home-business2 #rs-header .menu-area .rs-menu{
+        padding-top: 15px;
+    }
+    .rs-slider.rs-slider-one:after{
+        content: "";
+        position: absolute;
+        background: rgba(255,255,255,.45);
+        top: 0;
+        bottom: 0;
+        right: 0;
+        width: 100%;
+        z-index: 1 !important;
+        display: block !important;
+    }
+}
+/* Layout: Min 768px Max 992px. */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .rs-defult-customer .customer-item .item-details{
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+/* Mobile Layout: 767px. */
+@media only screen and (max-width: 767px) {
+    #rs-slider .nivo-controlNav,
+    #rs-slider .nivo-directionNav,
+    .hidden-sm {
+        display: none;
+    }
+    .rs-slider.rs-sec-slider .sl-title span{
+        line-height: 30px !important;
+    }
+    .right-skills-bar .corporate-skills-inner{
+        padding-top: 70px !important;
+    }
+    .nopadding-sm{
+        padding: 0;
+    }
+    .sec-spacer{
+        padding: 66px 0 70px;
+    }
+    .mb-sm-30{
+        margin-bottom: 30px !important;
+    }
+    .mb-sm-50{
+        margin-bottom: 50px !important;
+    }
+    .margin-sm-0{
+        margin: 0 !important;
+    }
+    .pt-60 {
+        padding-top: 60px;
+    }
+    .pt-70 {
+        padding-top: 50px;
+    }
+    .pt-94 {
+        padding-top: 64px;
+    }
+    .pt-80 {
+        padding-top: 50px;
+    }
+    .pt-100 {
+        padding-top: 70px !important;
+    }
+    
+    .pb-70,
+    .rs-services.pb-70{
+        padding-bottom: 40px;
+    }
+    .pb-80 {
+        padding-bottom: 50px;
+    }
+    .pb-90 {
+        padding-bottom: 60px;
+    }
+    .pb-100 {
+        padding-bottom: 70px !important;
+    }
+    .rs-services.pb-170{
+        padding-bottom: 40px !important;
+    }
+    .sec-title {
+        margin-bottom: 45px;
+    }
+    .rs-about-4 .title {
+        padding: 60px 15px;
+    }
+    .about2 .rs-about-2{
+        padding: 70px 0px;
+    } 
+    .creative-agency .sec-spacer{
+        padding: 60px 0 70px;
+    }
+    .how-we-work.pb-100{
+        padding-bottom: 40px;
+    }
+    .rs-portfolio .gridFilter.construction-filter button {
+        margin-right: 20px;
+    }
+    .rs-portfolio .gridFilter.construction-filter {
+        margin-bottom: 30px;
+    }
+    .rs-blog-details{
+        padding-top: 70px !important;
+    }
+    .sec-title h3,
+    .sec-title3 h3{
+        padding-right: 0;
+    }
+    .sec-title h3::after,
+    .sec-title3 h3::after{
+        display: none;
+    }
+    .sec-title-2 h3,
+    .sec-title3 h3{
+        margin: 0 0 15px;
+    }
+    .sec-title h3,
+    .sec-title3 h3,
+    .sec-title-2 h3,
+    .sec-title3 h3,
+    .cart-total h3.total-cart-title{
+        font-size: 25px;
+    }
+    #rs-header .middle-header .logo {
+        margin: 0;
+    }
+    #rs-header.icon-header .middle-header .header-contact {
+        float: none;
+        text-align: center;
+    }
+    #rs-header.icon-header .middle-header .header-contact .widget-text {
+        padding: 40px 0 0;
+    }
+    #rs-header.icon-header .middle-header .header-contact .widget-text i {
+        top: 0;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+    .rs-blog .blog-item .content-wrapper{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .creative-agency .sec-title-2 h3 span{
+        font-size: 60px;
+    }
+    .sec-title-2 {
+        padding-top: 12px;
+    }
+    .sec-title-2 h3 span {
+        top: -24px;
+        font-size: 65px;
+    }
+    .rs-defult-team.defult-style.about-team {
+        padding-top: 70px;
+        padding-bottom: 64px;
+    }
+    .rs-services-3 .common {
+        padding: 30px;
+        text-align: center;
+    }
+    .creative-service.rs-services-3 .common,
+    .creative-service.rs-services-3 .common .text{
+        text-align: left;
+    }
+    .owl-carousel .owl-nav {
+       top: -70px;
+    }
+    .rs-defult-customer .rs-contact {
+        padding-top: 0;
+    }
+    .counter-top-area.defult-style .rs-counter-list{
+        margin-bottom: 0;
+    }
+    .home-business2 .rs-defult-team.defult-style {
+        padding-top: 72px;
+    }
+    #rs-team.rs-defult-team .rs-count{
+        padding-bottom: 30px;
+    }
+    .cd-headline.clip {
+        font-size: 30px;
+    }
+    .rs-banner .banner-content .banner-btn ul li a {
+        width: 145px;
+        padding: 13px 0;
+    }
+    .rs-slider .slider-bottom ul li a.readon {
+        width: unset;
+    }
+    .home-personal .rs-about .contents-here p {
+        padding: 0 1%;
+    }
+    .home-personal .rs-blog {
+        padding-bottom: 65px;
+    }
+    .rs-lawyer-slider.rs-slider .sl-title{
+        margin-bottom: 6px;
+    }
+    .home-mobile-apps .rs-banner {
+        height: 600px;
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area {
+        text-align: center;
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-sub-title {
+        margin: 0 auto;
+    }
+    .rs-services-4 .service-grid:hover {
+        margin-top: 0;
+    }
+    .home-business2 .why-choose-us.defult-style {
+        padding-bottom: 64px;
+    }
+    .rs-services-3.mobile-apps .icon-part:hover {
+        box-shadow: unset;
+    }
+    .rs-video-area2 {
+        margin-bottom: -116px;
+    }
+    .rs-customer4.padding-style {
+        padding-top: 183px;
+    }
+    .rs-pricing3 .pricing-plan.center,
+    .rs-pricing3 .pricing-plan:hover {
+        margin-top: 0;
+    }
+    .rs-pricing3 .pricing-plan.center .top .cl-header h4,
+    .rs-pricing3 .pricing-plan:hover .top .cl-header h4 {
+        padding-top: 35px;
+    }
+    .rs-download-store .logo-area ul li {
+        margin-right: 10px;
+    }
+    .rs-download-store .logo-area ul li img {
+        max-width: 31%;
+    }
+    .rs-contact-inner {
+        padding-top: 70px;
+    }
+    .top-history.top-history2 .history-column {
+        min-height: auto;
+        padding-bottom: 60px;
+    }
+    .rs-contact-inner .giant-content {
+        margin-top: 0;
+    }
+    .rs-blog .blog-item .content-wrapper .blog-desc.big-font a {
+        font-size: 18px;
+    }
+    .rs-slider .sl-title {
+        font-size: 25px !important;
+        line-height: 30px !important;
+        margin: 0 0 6px;
+    }
+    .nivo-caption{
+        top: 6px;
+    }
+    .rs-slider .sl-title span {
+        font-size: 22px !important;
+        line-height: 25px !important;
+        margin: 0 0 5px;
+    }
+    .construction-slider.rs-slider .sl-title span{
+        margin-bottom: 20px;
+    }
+    .corporate-slider.rs-slider .sl-title span{
+        margin-bottom: 18px;
+    }
+    .corporate-slider.rs-slider .sl-desc{
+        line-height: 26px;
+    }
+    .rs-slider .sl-subtitle,
+    .rs-slider .sl-sub-title{
+        font-size: 20px !important;
+        line-height: 25px;
+    }
+    .rs-slider .slider-bottom ul li a.readon{
+        padding: 12px 30px !important;
+    }
+    .rs-slider .slider-bottom{
+        margin: 25px 0 20px !important;
+    }
+    .rs-breadcrumbs .breadcrumbs-image img {
+        min-height: 200px;
+    }
+    .why-choose-us.defult-style{
+        padding-bottom: 70px;
+    }
+    .how-we-work .work-column img{
+        width: 100%;
+    }
+    .rs-defult-team.defult-style{
+        padding-top: 70px;
+        padding-bottom: 60px;
+    }
+    .counter-top-area.defult-style{
+        position: unset;
+        margin-bottom: 65px;
+    }
+    .rs-defult-customer .rs-contact{
+        margin-top: 70px;
+    }
+    .rs-defult-customer .rs-contact::after,
+    .rs-defult-customer .rs-contact.inverse-skew::before{
+        display: none;
+    }
+    .rs-customer3.rs-defult-customer {
+        padding-bottom: 60px;
+    }
+    .rs-defult-customer .rs-contact .contact-bg .contact-form{
+        padding: 30px;
+    }
+    .rs-defult-customer .sec-title .contact-title{
+        padding: 0;
+    }
+    .rs-portfolio .gallery-item .gallery-content .popup-text .contents-here .title a{
+        font-size: 18px;
+    }
+    .rs-services-3.creative-service .common{
+        padding: 0;
+        margin: 0 0 30px;
+    }
+    .rs-cta .cta-content,
+    .rs-cta .cta-content h3{
+        text-align: center;
+    }
+    .rs-cta .cta-button{
+        margin-top: 15px;
+        text-align: center !important;
+    }
+    .rs-team-inner.lawyer-team .team-grid .text-bottom{
+        text-align: center;
+    }
+    .rs-about-4.pb-240{
+        padding-bottom: 50px;
+    }
+    .rs-about-icon .icon-section .single-icon{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .rs-about-icon .icon-section .single-icon .icon-text::after{
+        width: 1px;
+        height: 40px;
+    }
+    .rs-about-icon .icon-section .single-icon .icon-text.after-none::after{
+        display: block;
+    }
+    .rs-about-icon.service-icon .icon-section .single-icon .icon-text.after-none::after {
+        display: none;
+    }
+    .rs-about-icon.service-icon .icon-section {
+        overflow: hidden;
+    }
+    .rs-about-5.default-about.faq-about .accordion .collapse .card-body .card-img{
+        width: 50%;
+    }
+    .rs-about-5.default-about.faq-about .accordion .card .card-header .card-title .accordion-toggle{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .rs-services-3.pb-200 {
+        padding-bottom: 40px !important;
+    }
+    .rs-services.services-carousel.pb-220 {
+        padding-bottom: 70px !important;
+    }
+    .rs-project-style .page-nav,
+    .rs-blog-details .page-nav {
+        padding-top: 45px !important;
+    }
+    .rs-project-style .ps-informations ul li span {
+        width: 120px;
+    }
+    .rs-map #googleMap{
+        height: 300px;
+    }
+    .rs-contact .contact-form {
+        width: 100%;
+    }
+    .rs-blog .blog-item .content-wrapper .blog-meta ul li {
+        margin-right: 15px;
+    }
+    .home-business2 .rs-slider .sl-desc {
+        width: unset;
+        display: none;
+    }
+    .home-business2 .rs-slider .sl-subtitle, .rs-slider .sl-sub-title {
+        margin-top: 0;
+    }
+    .home-business2 .rs-slider .slider-bottom ul li a.readon {
+        font-size: 14px !important;
+        font-weight: normal !important;
+        padding: 10px 20px !important;
+    }
+
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des .sl-title {
+        font-size: 35px !important;
+        line-height: 1.25 !important;
+        margin-bottom: 20px !important;
+    } 
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des {
+        margin-top: 42px;
+    }
+    .home-medical .rs-slider .sl-desc {
+        width: 100%;
+    }
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des .sl-desc {
+        margin-bottom: 40px;
+    }
+    .top-history.top-history2 {
+        padding: 70px 0 65px 0;
+    }
+    .top-history.top-history2 .history-column ul.date-time {
+        padding: 0;
+    }
+    .top-history.top-history2 .history-column p {
+        padding: 0 5% 0;
+    }
+    .rs-about-2 {
+        margin-bottom: 0;
+    }
+    .rs-services-3 .common .icon-part {
+        margin-bottom: 15px;
+    }
+    .rs-single-product .single-product-nav .images-slide-single img {
+        margin: 0 auto;
+    }
+    .rs-cart .cart-body .cart-detail table tr th {
+        display: none;
+    }
+    .rs-cart .cart-body .cart-detail table tr td {
+        display: block;
+    }
+    .home-minimal .rs-banner .banner-content .bnr-title {
+        font-size: 39px;
+    }
+    .home-minimal .rs-banner .banner-content .banner-btn {
+        margin-top: 0;
+    }
+    .home-minimal .rs-banner .banner-img img {
+        height: 350px
+    }
+    .home-minimal .rs-banner .banner-content .banner-btn ul li .readon {
+        padding: 13px 23px;
+    }
+    .rs-about-2.mod-style {
+        padding-bottom: 65px !important;
+    }
+    .rs-defult-team.medical-team.defult-style {
+        padding-bottom: 70px;
+    }
+    .home-medical .rs-customer3.rs-defult-customer {
+        padding-bottom: 65px;
+    }
+    .rs-defult-team.medical-team.defult-style {
+        padding-top: 70px;
+    }
+    .rs-services-3 .view-all-btn .readon {
+        padding: 10px 33px;
+    }
+    .rs-services-3 .view-all-btn.medical-space {
+        padding-top: 0;
+    }
+    .home-medical .why-choose-us.defult-style {
+        padding-bottom: 67px;
+    }
+    .rs-services.personal-service {
+        padding-bottom: 70px;
+    }
+    .rs-portfolio {
+        padding-bottom: 40px !important;
+    }
+    .home-personal .rs-customer3 {
+        padding-bottom: 63px;
+    }
+    .home-personal .rs-blog {
+        padding-bottom: 45px;
+    }
+    .rs-contact-inner .contact-bottom {
+        padding: 70px 0;
+    }
+    .rs-counter-2.mod-padding {
+        padding-bottom: 40px;
+    }
+    .rs-counter-2.mod-padding.pb-100 {
+        padding-bottom: 40px !important;
+    }
+    .rs-app-scrnshoot .sec-title3 h3 {
+        margin-bottom: 0;
+    }
+    .rs-app-scrnshoot .sec-title3 {
+        margin-bottom: 25px;
+    }
+    .rs-app-scrnshoot {
+        padding-bottom: 45px !important;
+    }
+    .home-mobile-apps .rs-customer4.padding-style {
+        padding-bottom: 63px;
+    }
+    .rs-services-3.mobile-apps {
+        padding-bottom: 40px;
+    }
+    .rs-blog.modified {
+        padding-top: 70px;
+    }
+    .rs-blog.modified .blog-item .content-wrapper {
+        padding-bottom: 50px;
+    }
+    .h-sidebar {
+        padding-bottom: 50px;
+    }
+    .rs-blog.modified-2 {
+        padding-bottom: 70px;
+    }
+    .top-history.corporate-history{
+        padding: 35px 0;
+    }
+    .top-history.corporate-history .history-column {
+        background: #f4f7fc;
+        box-shadow: unset;
+        padding: 35px 0;
+    }
+    .rs-about-4 .title, 
+    .right-skills-bar .corporate-skills-inner {
+        max-width: 550px;
+    }
+    .about .rs-about-4 .padding-0{
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+    .width-70{
+        width: 100%;
+    }
+    .about-me .pb-240,
+    .about .rs-about-4.pb-240{
+        padding-bottom: 76px !important;
+    }
+    .rs-portfolio .gridFilter {
+        margin-bottom: 30px;
+    }
+    .rs-about-icon .icon-section .single-icon .icon-text .icon-title {
+        font-size: 20px;
+        margin: 30px 0 5px;
+    }
+    .rs-services-3 .service-title h3{
+        font-size: 24px;
+    }
+    .rs-breadcrumbs .breadcrumbs-image .breadcrumbs-inner .breadcrumbs-text .breadcrumbs-title{
+        font-size: 30px;
+    }
+    .rs-services-3 .common .text{
+        padding: 0 0 15px;
+    }
+    .rs-services-3 .col-lg-6:last-child .common .text{
+        padding-bottom: 0;
+    }
+}
+
+/* Device Size : 590px. */
+@media only screen and (max-width: 575px) {
+	.hidden-xs {
+        display: none;
+    }
+    .mb-xs-30{
+        margin-bottom: 30px;
+    }
+    .rs-about .sec-title.mod-style,
+    .sec-title{
+        margin-bottom: 25px;
+    }
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .get-quote a,
+    #rs-header.icon-header .middle-header .menu-area .header-bottom-area .appointment-cart .search-bar input {
+        width: 150px;
+    }
+    #rs-header.transparent-header,
+    #rs-header.transparent-header-2{
+        position: unset;
+    }
+    .top-history.top-history2 {
+        padding-top: 0;
+    }
+    .rs-slider .sl-title {
+        font-size: 20px;
+        line-height: 25px;
+        margin: 0;
+    }
+    .rs-slider .sl-title span {
+        font-size: 18px !important;
+        line-height: 20px !important;
+        margin: 0;
+    }
+    .about .counter-top-area.defult-style .rs-count,
+    .about-me .counter-top-area.defult-style .rs-count{
+        background: transparent;
+        box-shadow: none;
+        padding-top: 0;
+    }
+    .about .counter-top-area.defult-style .rs-counter-list,
+    .about-me .counter-top-area.defult-style .rs-counter-list{
+        background: #fff;
+    }
+
+    .rs-defult-team.defult-style {
+        padding-bottom: 65px;
+    }
+    .rs-video-area2 {
+        margin-bottom: -102px;
+    }
+    .rs-customer4.padding-style {
+        padding-top: 169px;
+    }
+    .rs-slider .sl-subtitle,
+    .rs-slider .sl-sub-title{
+        font-size: 15px !important;
+    }
+    .home-mobile-apps .rs-banner {
+        height: 500px;
+    }
+    .construction-slider.rs-slider .sl-title span{
+        margin-bottom: 12px;
+    }
+    .about .counter-top-area.defult-style .rs-count,
+    .about-me .counter-top-area.defult-style .rs-count{
+        padding-left: 0;
+        padding-right: 0
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-btn li .readon {
+        font-size: 14px;
+    }
+    .rs-banner .banner-content .bnr-title {
+        font-size: 35px;
+    }
+    .cd-headline.clip {
+        font-size: 20px;
+    }
+    .rs-banner .banner-content .banner-btn ul li a {
+        width: 120px;
+        padding: 8px 0;
+        font-size: 14px;
+    }
+    .rs-portfolio .gridFilter button {
+        margin-right: 15px;
+        font-size: 14px;
+    }
+    .rs-slider .sl-desc,
+    .rs-slider.corporate-slider .sl-desc2{
+        display: none;
+    }
+    .rs-slider .slider-bottom ul li a.readon{
+        padding: 5px 20px !important;
+        font-size: 15px !important;
+    }
+    .rs-slider .slider-bottom{
+        margin: 15px 0 !important;
+    }
+    .rs-breadcrumbs .breadcrumbs-image .breadcrumbs-inner .breadcrumbs-text .breadcrumbs-title{
+        font-size: 25px;
+        line-height: 30px;
+        margin: 0;
+    }
+    .rs-blog .blog-item .content-wrapper .blog-desc.big-font a {
+        font-size: 22px;
+    }
+    .owl-carousel .owl-nav{
+        display: none;
+    }
+    .rs-services-3 .common .text{
+        text-align: center;
+        padding: 15px;
+    }
+    .service-title h3{
+        font-size: 20px !important;
+    }
+    .rs-cta .cta-content h3{
+        font-size: 25px !important;
+        line-height: 30px;
+    }
+    .rs-slider.corporate-slider .nivoSlider img{
+        max-height: 100%;
+    }
+    .rs-services h5.overlay-feature-title{
+        font-size: 12px;
+    }
+    .rs-about-5 .accordion .card .card-header .card-title{
+        font-size: 13px;
+    }
+    .rs-about-5 .about-img img{
+        max-width: 100%;
+    }
+    .rs-services-3.creative-service .common .icon-part{
+        padding-left: 15px;
+    }
+    .rs-about-5.default-about.faq-about .accordion .collapse .card-body .card-img{
+        width: 100%;
+        padding: 0 0 25px;
+    }
+    .rs-project-style .project-slider {
+        margin-bottom: 40px;
+    }
+    .rs-project-style .project-desc h3 {
+        font-size: 20px;
+        line-height: 25px;
+        margin-bottom: 20px;
+    }
+    .rs-project-style .ps-informations .info-title {
+        font-size: 18px;
+    }
+
+    .transparent-header .rs-menu-toggle {
+        color: #222 !important;
+    }
+    .top-history.top-history2 .history-column {
+        min-height: unset;
+    }
+    .top-history.top-history2 .history-column {
+        padding-bottom: 40px;
+    }
+    .top-history.top-history2 .history-column p {
+        padding-bottom: 25px;
+    }
+    .top-history.top-history2 .history-column ul.date-time {
+        padding-bottom: 15px;
+    }
+    .top-history.top-history2 .history-column ul.date-time li {
+        text-align: left;
+        padding: 10px 30px;
+    }
+    .top-history.top-history2 .history-column ul.date-time li span {
+        float: right;
+        display: inline;
+    }
+    #rs-header.transparent-header .menu-sticky .logo-area.transparent-logo-area {
+        display: block;
+    }
+    #rs-header.transparent-header .menu-sticky .logo-area.main-logo-area {
+        display: none;
+    }
+    .home-business2 .rs-menu-toggle i {
+        color: #222;
+    }
+    .home-business2 .rs-slider .display-table-cell .slider-bottom li:first-child {
+        margin-right: 20px;
+    }
+    .home-business2 .rs-slider .sl-title {
+        margin-bottom: 10px;
+    }
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des {
+        margin-top: 0;
+    }
+    .rs-cart .cart-body .cart-detail .action span {
+        display: block;
+        float: unset;
+        margin-top: 30px;
+        width: 100%;
+    }
+    .rs-cart .cart-body .cart-detail .action .cupon form input,
+    .rs-cart .cart-body .cart-detail .action .cupon form .apply-cupon,
+    .rs-cart .cart-body .cart-detail .action span .update-cart {
+        width: 100%;
+    }
+    .rs-cart .cart-body .cart-detail .action .cupon form .apply-cupon {
+        margin-top: 30px;
+    }
+    .rs-checkout .coupon-toggle .accordion .card .card-body .coupon-code-input {
+        width: 100%;
+        margin: 0 0 30px;
+    }
+    .home-minimal .rs-banner .banner-content .bnr-title {
+        font-size: 33px;
+        margin-bottom: 12px;
+    }
+    .home-minimal .rs-banner .banner-content .banner-btn ul li .readon {
+        padding: 12px 20px;
+    }
+    .home-minimal .cd-headline.clip {
+        margin-bottom: 15px;
+    }
+    .rs-skills.corporate-skills .corporate-skills-inner{
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .right-skills-bar .counter-top-area .rs-counter-list,
+    .rs-slider.rs-sec-slider .col-sm-12{
+        text-align: center;
+    }
+    .rs-cta .cta-content h3,
+    .rs-defult-customer .contact-form .sec-title .contact-title,
+    .rs-checkout .checkout-title h3,
+    .cart-total h3.total-cart-title,
+    .rs-single-product .single-price-info .product-title,
+    .rs-project-style .p-style-wrap .p-style-title,
+    .rs-checkout .checkout-title h3 {
+        font-size: 20px !important;
+    }
+    .why-choose-us .services-responsibiity .sec-title {
+        margin-bottom: 26px;
+    }
+    .rs-checkout .full-grid .form-content-box {
+        margin-bottom: 30px;
+    }
+    .readon{
+        padding: 8px 18px;
+    }
+    
+}
+
+/* Small Device : 480px. */
+@media only screen and (max-width: 480px) {
+    .rs-slider .nivoSlider img{
+        min-height: 200px;
+    }
+    .home-medical .rs-slider .display-table .display-table-cell .slider-des .sl-title {
+        font-size: 20px !important;
+    }
+    .rs-footer .footer-bottom .footer-bottom-share ul li a {
+        padding: 12px;
+    }
+    .rs-defult-team .team-item:hover .team-content {
+        height: 40px;
+    }
+    .home-personal .rs-about .contents-here p {
+        padding: 0;
+    }
+    .rs-contact-inner .contact-bottom .social-links ul li {
+        margin-right: 20px;
+    }
+    .rs-contact-inner .contact-bottom .social-links ul li a i {
+        font-size: 25px;
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+    }
+    .creative-agency .sec-title-2 h3 span {
+        font-size: 50px;
+    }
+
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-title {
+        font-size: 28px;
+    }
+    .home-mobile-apps .rs-banner {
+        height: 350px;
+    }
+    .home-minimal .rs-banner .banner-content {
+        width: 100%;
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-btn li:last-child {
+        display: none;
+    }
+    .home-mobile-apps .rs-banner .bnr-content-area .bnr-text .bnr-btn li .readon {
+        padding: 10px 33px;
+    }
+    .rs-video-area2 .video-section-area .image-here img {
+        min-height: 206px;
+    }
+    .rs-download-store .logo-area ul li img {
+        max-width: unset;
+    }
+    .rs-download-store .logo-area ul li {
+        margin-right: 0;
+        margin-bottom: 30px;
+        display: block;
+    }
+    .rs-download-store .logo-area ul li:last-child {
+        margin-bottom: 0;
+    }
+    .home-personal .rs-about .contents-here .readon {
+        width: 115px;
+        padding: 10px 0;
+    }
+    .rs-portfolio .gridFilter {
+        margin-bottom: 25px;
+    }
+    .rs-banner .banner-content .bnr-title {
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .cd-headline.clip {
+        font-size: 16px;
+        margin-bottom: 0;
+    }
+    .rs-banner .banner-content .banner-btn {
+        margin-top: 20px;
+    }
+    .rs-defult-team .team-item .team-social {
+        height: 48px;
+    }
+    .top-history .history-column i {
+        padding-top: 29px;
+    }
+    .top-history .history-column p {
+       padding: 0 11% 45px;
+    }
+    .home-business2 .rs-slider .slider-bottom ul li a.readon {
+        padding: 7px 20px !important;
+    }
+    .home-business2 .rs-slider .nivo-directionNav > a {
+        background: transparent;
+    }
+    .home-business2 .rs-slider .nivoSlider:hover .nivo-directionNav > a.nivo-nextNav,
+    .home-business2 .rs-slider .nivoSlider:hover .nivo-directionNav > a.nivo-prevNav {
+        background: transparent;
+    }
+    .sec-title-2 h3 span {
+        top: -15px;
+        font-size: 50px;
+    }
+    .sec-title-2 {
+        padding-top: 6px;
+    }
+    .rs-contact-inner .giant-content {
+        width: 100%;
+        padding: 65px 15px;
+    }
+    .rs-project-style .page-nav,
+    .rs-blog-details .page-nav {
+        display: none;
+    }
+    .author-block {
+        margin-bottom: 30px;
+    }
+    .rs-page-error .error-text {
+        padding: 0 15px;
+    }
+    .rs-single-product .tab-area ul.nav-tabs li {
+        margin-right: 0;
+        margin-bottom: 10px;
+        width: 100%;
+    }
+    .rs-single-product .tab-area ul.nav-tabs li:last-child {
+        margin: 0;
+    }
+    .rs-services .item-thumb .owl-dot {
+        width: 50%;
+    }
+    .rs-services-3.creative-service .common .text::before {
+        height: 70%;
+        width: 150px;
+        top: 36px;
+    }
+    .rs-portfolio .gridFilter.construction-filter {
+        margin-bottom: 24px;
+    }
+    .rs-portfolio .gridFilter.construction-filter button {
+        margin-bottom: 6px;
+    }
+    .sec-title h3, 
+    .sec-title3 h3, 
+    .sec-title-2 h3, 
+    .sec-title3 h3, 
+    .cart-total h3.total-cart-title{
+        font-size: 20px;
+    }
+    .h-sidebar .h-widget-title,
+    .rs-blog.modified .blog-item .content-wrapper .title{
+        font-size: 18px;
+    }
+    .rs-services .featured-item .title h4{
+        font-size: 16px;
+    }
+}
+
+/* Extra Small Device : 320px. */
+@media only screen and (max-width: 320px) {
+	.rs-footer .footer-bottom .footer-bottom-share ul li a {
+        padding: 7px;
+    }
+    .home-business2 .rs-slider .sl-title {
+        margin-bottom: 0 !important;
+    }
+	.home-business2 .rs-slider .sl-title {
+        font-size: 18px !important;
+    }
+    .home-business2 .rs-slider .slider-bottom ul li a.readon {
+        padding: 7px 16px !important;
+        font-size: 12px !important;
+    }
+    .home-business2 .rs-slider .display-table-cell .slider-bottom li:first-child {
+        margin-right: 10px !important;
+    }
+
+}
